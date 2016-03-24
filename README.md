@@ -1,6 +1,6 @@
 # Ping-and-Traceroute-logging
 
-Ping-and-Traceroute-logging bash script
+Ping and traceroute logging bash script
 _______________________________________
 
 #How it works:
